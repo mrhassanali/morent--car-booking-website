@@ -1,8 +1,10 @@
-# React + Vite
+## Morent Car Booking Website
+- Build the Dashboard of Morent Car Booking Website in React.js with Tailwind css
+## Design
+![morent-car-booking-website](https://s3-alpha.figma.com/hub/file/4059373738/e2fac41d-d70d-467c-9479-75fe0c5f8154-cover.png)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Figma Design
+- [Morent Car Booking Website](https://morent-car-booking-website.vercel.app)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  Demo
+https://morent-car-booking-website.vercel.app/
